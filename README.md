@@ -14,7 +14,7 @@ Este projeto implementa o padrão 23/3, ou seja, quando uma célula "nasce" se t
 - Tkinter
 
 
-## Execultando
+## Executando
 
 Para executar é só executar o arquivo
 
