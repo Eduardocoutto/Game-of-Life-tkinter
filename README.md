@@ -1,4 +1,4 @@
-# Game-of-Life-tkinter
+# Game of Life no Tkinter
 
 by [EduardoCoutto](https://github.com/Eduardocoutto?tab=repositories)
 
